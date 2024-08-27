@@ -1,4 +1,4 @@
-A Shoot 'Em Up python game made with pygame with ![@prsm3](https://github.com/prsm3) back in school for a cs class project. There is even a music player! Don't try to delete any sprites, not even those not inside
+A Shoot 'Em Up python game made with pygame with ![@prsm3](https://github.com/prsm3) back in school for a cs class project. There even is a music player! Don't try to delete any sprites, not even those not inside
 `Sprites_new/`, I dont know what my past self was up to.
 
 # Getting Started
