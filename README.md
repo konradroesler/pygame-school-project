@@ -44,3 +44,12 @@ Shoot enemies to gain score and survive longer. Reduce or increase different par
 Press exit to exit the round.
 
 # Screenshots
+<p float="left">
+  <img src="https://github.com/konradroesler/pygame-school-project/blob/main/screenshots/screenshot_1.png" width="400">
+  <img src="https://github.com/konradroesler/pygame-school-project/blob/main/screenshots/screenshot_2.png" width="400">
+</p>
+
+<p float="left">
+  <img src="https://github.com/konradroesler/pygame-school-project/blob/main/screenshots/screenshot_3.png" width="400">
+  <img src="https://github.com/konradroesler/pygame-school-project/blob/main/screenshots/screenshot_4.png" width="400">
+</p>
