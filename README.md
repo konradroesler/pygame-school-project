@@ -25,12 +25,16 @@ Open an env session:
 python3.10 -m pipenv shell
 ```
 
-Start the game! 
+Start the game!
 ```shell
 python3.10 main.py
 ```
 
-# Guide 
+## Issues
+
+I have found that the above installation process doesn't make the game work on all unix systems. This issue arised on a system running wayland instead of X11, but I haven't confirmed it runs on an X11 system.
+
+# Guide
 
 ### Controls
 
